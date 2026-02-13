@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build outputs (if using static site generator)
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Node (if using any JS tooling)
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# PDF exports
+exports/
+*.pdf
